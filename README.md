@@ -54,8 +54,8 @@ Source repository: <https://github.com/liumouyuan/liumouyuan>
 </p>
 <p align="center">
     <!-- https://github.com/LelouchFR/skill-icons -->
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=c,arduino,pycharm,powershell,postman,linux,html,github,raspberrypi,vscode,&titles=true" alt="Skill Icons" title="Skill Icons">
-  
+    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=c,arduino,pycharm,powershell,postman,linux,html,github,raspberrypi,vscode,mysql,opencv,&titles=true" alt="Skill Icons" title="Skill Icons">
+    
 </p>
 <p align="center">
     <!-- https://github.com/badges/shields --> 
