@@ -54,13 +54,13 @@ Source repository: <https://github.com/liumouyuan/liumouyuan>
 </p>
 <p align="center">
     <!-- https://github.com/LelouchFR/skill-icons -->
-    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=py,c,cpp,cs,java,html,css,js,ts,md,latex,regex,mermaid,matlab&titles=true" alt="Skill Icons" title="Skill Icons">
+    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=arduino,pycharm,powershell,postman,linux,html,github,raspberrypi,&titles=true" alt="Skill Icons" title="Skill Icons">
 </p>
 <p align="center">
     <!-- https://github.com/badges/shields --> 
     <a href="https://github.com/liumouyuan"><img src="https://img.shields.io/badge/GitHub-liumouyuan-blue?logo=github" alt="GitHub" title="GitHub" /></a>
-    <a href="https://gitee.com/liumouyuan"><img src="https://img.shields.io/badge/Gitee-liumouyuan-blue?logo=gitee" alt="Gitee" title="Gitee" /></a>
-    <a href="https://space.bilibili.com/498105668"><img src="https://img.shields.io/badge/哔哩哔哩-我就是小康-pink?logo=bilibili" alt="哔哩哔哩" title="哔哩哔哩" /></a>
+    <!-- a href="https://gitee.com/liumouyuan"><img src="https://img.shields.io/badge/Gitee-liumouyuan-blue?logo=gitee" alt="Gitee" title="Gitee" / --><!--/a-->
+    <a href="https://space.bilibili.com/2054848845?spm_id_from=333.1007.0.0"><img src="https://img.shields.io/badge/哔哩哔哩-飞雪的水源-pink?logo=bilibili" alt="哔哩哔哩" title="哔哩哔哩" /></a>
     <a href="https://wakatime.com/@liumouyuan"><img src="https://wakatime.com/badge/user/67677d2a-fdc6-4c21-a964-b5477332bc69.svg" alt="Wakatime" title="Wakatime" /></a>
     <!-- https://github.com/antonkomarev/github-profile-views-counter -->
     <a href="https://github.com/liumouyuan"><img src="https://komarev.com/ghpvc/?username=liumouyuan&label=Profile+Views" alt="Profile Views" title="Profile Views" /></a>
