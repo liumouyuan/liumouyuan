@@ -33,7 +33,7 @@ Source repository: <https://github.com/liumouyuan/liumouyuan>
 <p align="center">
     <!-- https://github.com/DenverCoder1/readme-typing-svg -->
     <img width="45" height="45" src="https://user-images.githubusercontent.com/118815227/218338072-ea477aa8-1374-4e2d-8dfd-dd8cc4e45656.gif"/>
-    <img width="800" src="https://readme-typing-svg.demolab.com?font=LXGW+WenKai+TC&size=22&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;欢迎来到我的 GitHub 主页！" alt="Hello World" title="Hello World"/>
+    
 </p>
 <p align="center">
     <!-- https://github.com/anuraghazra/github-readme-stats -->
